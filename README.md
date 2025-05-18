@@ -1,1 +1,1 @@
-This is the description of my repo
+## Objective: Simulate branch creation and merge conflict resolution
